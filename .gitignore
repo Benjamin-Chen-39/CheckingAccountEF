@@ -1,0 +1,5 @@
+.vscode
+app/bin
+app/obj
+lib/bin
+lib/obj
